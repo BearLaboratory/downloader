@@ -337,9 +337,9 @@ Wire Wire Line
 	4730 1870 4530 1870
 Wire Wire Line
 	4730 1970 4530 1970
-Text Label 4570 1970 0    50   ~ 0
-D-
 Text Label 4570 1870 0    50   ~ 0
+D-
+Text Label 4580 1970 0    50   ~ 0
 D+
 $Comp
 L power:GND #PWR07
